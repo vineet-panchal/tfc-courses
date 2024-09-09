@@ -35,7 +35,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
     <iframe width="560" height="315"
-src="[https://www.youtube.com/embed/MUQfKFzIOeU](https://www.youtube.com/watch?v=F49XitYifmo&ab_channel=Salen)" 
+src="https://www.youtube.com/embed/MUQfKFzIOeU" 
 frameborder="0" 
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
